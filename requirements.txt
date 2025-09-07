@@ -120,7 +120,6 @@ nvidia-cusparselt-cu12==0.7.1
 nvidia-nccl-cu12==2.27.3
 nvidia-nvjitlink-cu12==12.8.93
 nvidia-nvtx-cu12==12.8.90
-omnicv @ file:///home/tree/OmniCV-Lib
 openai==1.106.1
 opencv-contrib-python==4.12.0.88
 opencv-python==4.12.0.88
